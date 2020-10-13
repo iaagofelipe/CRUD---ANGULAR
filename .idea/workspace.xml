@@ -7,20 +7,17 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf47f270-619d-48d8-9a93-a7775a448c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/img/logo-200506-094136.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +102,7 @@
       <updated>1602263673763</updated>
       <workItem from="1602263674810" duration="59000" />
       <workItem from="1602263738539" duration="6777000" />
-      <workItem from="1602605989472" duration="5455000" />
+      <workItem from="1602605989472" duration="8649000" />
     </task>
     <servers />
   </component>
@@ -117,7 +114,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -188,6 +197,10 @@
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state x="1702" y="86" width="1143" height="732" key="SettingsEditor/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602606743186" />
+    <state x="1915" y="186" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1602614162796">
+      <screen x="1600" y="0" width="1440" height="900" />
+    </state>
+    <state x="1915" y="186" width="800" height="530" key="Vcs.Push.Dialog.v2/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602614162796" />
     <state x="1984" y="201" key="run.anything.popup" timestamp="1602610053510">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
