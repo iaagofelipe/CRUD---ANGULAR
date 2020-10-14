@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Playstation 5",
       "price": 5000.1
+    },
+    {
+      "name": "Produto teste",
+      "price": 100.2,
+      "id": 4
     }
   ]
 }

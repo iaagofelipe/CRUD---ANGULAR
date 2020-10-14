@@ -17,7 +17,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf47f270-619d-48d8-9a93-a7775a448c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product-create/product-create.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product-create/product-create.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product-create/product-create.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/template/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/components/template/footer/footer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/template/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/components/template/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/template/nav/nav.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/components/template/nav/nav.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/components/template/nav/nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/components/template/nav/nav.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +69,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2487757" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/node_modules/typescript/lib" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.localhost:4200">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
@@ -103,6 +129,7 @@
       <workItem from="1602263674810" duration="59000" />
       <workItem from="1602263738539" duration="6777000" />
       <workItem from="1602605989472" duration="8649000" />
+      <workItem from="1602691879397" duration="11038000" />
     </task>
     <servers />
   </component>
@@ -137,10 +164,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1949" y="131" width="732" height="639" key="#Inspections" timestamp="1602700601548">
+      <screen x="1600" y="0" width="1440" height="900" />
+    </state>
+    <state x="1949" y="131" width="732" height="639" key="#Inspections/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602700601548" />
     <state x="1803" y="27" width="1024" height="847" key="#Project_Structure" timestamp="1602263676278">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state x="1803" y="27" width="1024" height="847" key="#Project_Structure/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602263676278" />
+    <state x="2128" y="169" width="374" height="564" key="#com.intellij.ide.util.MemberChooser" timestamp="1602704738345">
+      <screen x="1600" y="0" width="1440" height="900" />
+    </state>
+    <state x="2128" y="169" width="374" height="564" key="#com.intellij.ide.util.MemberChooser/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602704738345" />
     <state x="2103" y="208" width="424" height="486" key="FileChooserDialogImpl" timestamp="1602263703778">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
@@ -193,17 +228,25 @@
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state width="1394" height="281" key="GridCell.Tab.2.right/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602606474784" />
-    <state x="1702" y="86" width="1143" height="732" key="SettingsEditor" timestamp="1602606743186">
+    <state x="1702" y="86" width="1143" height="732" key="SettingsEditor" timestamp="1602696871322">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
-    <state x="1702" y="86" width="1143" height="732" key="SettingsEditor/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602606743186" />
+    <state x="1702" y="86" width="1143" height="732" key="SettingsEditor/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602696871322" />
     <state x="1915" y="186" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1602614162796">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state x="1915" y="186" width="800" height="530" key="Vcs.Push.Dialog.v2/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602614162796" />
+    <state x="1942" y="59" width="746" height="784" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602704427129">
+      <screen x="1600" y="0" width="1440" height="900" />
+    </state>
+    <state x="1942" y="59" width="746" height="784" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602704427129" />
     <state x="1984" y="201" key="run.anything.popup" timestamp="1602610053510">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state x="1984" y="201" key="run.anything.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602610053510" />
+    <state x="1983" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1602704644307">
+      <screen x="1600" y="0" width="1440" height="900" />
+    </state>
+    <state x="1983" y="194" width="672" height="678" key="search.everywhere.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602704644307" />
   </component>
 </project>
