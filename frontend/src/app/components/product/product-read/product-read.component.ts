@@ -9,14 +9,14 @@ import {ProductService} from "../product.service";
 })
 export class ProductReadComponent implements OnInit {
 
-    product: Product[]
+    products: Product[]
 
     constructor(private productService: ProductService) {
     }
 
     ngOnInit(): void {
         this.productService.read().subscribe(products => {
-            this.product = products
+            this.products = products
         })
     }
 

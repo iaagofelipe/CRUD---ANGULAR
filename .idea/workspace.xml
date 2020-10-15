@@ -119,7 +119,7 @@
       <workItem from="1602263738539" duration="6777000" />
       <workItem from="1602605989472" duration="8649000" />
       <workItem from="1602691879397" duration="11038000" />
-      <workItem from="1602721916435" duration="3873000" />
+      <workItem from="1602721916435" duration="4176000" />
     </task>
     <servers />
   </component>
@@ -156,10 +156,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Form created" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1949" y="131" width="732" height="639" key="#Inspections" timestamp="1602700601548">
-      <screen x="1600" y="0" width="1440" height="900" />
+    <state x="397" y="131" width="732" height="639" key="#Inspections" timestamp="1602728612581">
+      <screen x="64" y="0" width="1376" height="900" />
     </state>
     <state x="1949" y="131" width="732" height="639" key="#Inspections/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602700601548" />
+    <state x="397" y="131" key="#Inspections/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602728612581" />
     <state x="504" y="274" key="#Notifications" timestamp="1602727445110">
       <screen x="64" y="0" width="1376" height="900" />
     </state>
@@ -241,10 +242,10 @@
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state x="1984" y="201" key="run.anything.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602610053510" />
-    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1602727966581">
+    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1602728517669">
       <screen x="64" y="0" width="1376" height="900" />
     </state>
     <state x="1983" y="194" width="672" height="678" key="search.everywhere.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602704644307" />
-    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602727966581" />
+    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602728517669" />
   </component>
 </project>
