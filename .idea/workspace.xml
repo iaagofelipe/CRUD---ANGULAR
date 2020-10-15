@@ -16,7 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf47f270-619d-48d8-9a93-a7775a448c79" name="Default Changelist" comment="">
+    <list default="true" id="cf47f270-619d-48d8-9a93-a7775a448c79" name="Default Changelist" comment="Form created">
       <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product-create/product-create.component.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product-create/product-create.component.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/app/components/product/product-create/product-create.component.ts" afterDir="false" />
@@ -69,22 +69,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2487757" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/node_modules/typescript/lib" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.localhost:4200">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
@@ -130,6 +119,7 @@
       <workItem from="1602263738539" duration="6777000" />
       <workItem from="1602605989472" duration="8649000" />
       <workItem from="1602691879397" duration="11038000" />
+      <workItem from="1602721916435" duration="2900000" />
     </task>
     <servers />
   </component>
@@ -162,6 +152,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Form created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Form created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1949" y="131" width="732" height="639" key="#Inspections" timestamp="1602700601548">
@@ -228,10 +220,11 @@
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state width="1394" height="281" key="GridCell.Tab.2.right/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602606474784" />
-    <state x="1702" y="86" width="1143" height="732" key="SettingsEditor" timestamp="1602696871322">
-      <screen x="1600" y="0" width="1440" height="900" />
+    <state x="161" y="86" width="1143" height="732" key="SettingsEditor" timestamp="1602727382286">
+      <screen x="64" y="0" width="1376" height="900" />
     </state>
     <state x="1702" y="86" width="1143" height="732" key="SettingsEditor/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602696871322" />
+    <state x="161" y="86" key="SettingsEditor/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602727382286" />
     <state x="1915" y="186" width="800" height="530" key="Vcs.Push.Dialog.v2" timestamp="1602614162796">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
@@ -244,9 +237,10 @@
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state x="1984" y="201" key="run.anything.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602610053510" />
-    <state x="1983" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1602704644307">
-      <screen x="1600" y="0" width="1440" height="900" />
+    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1602726738053">
+      <screen x="64" y="0" width="1376" height="900" />
     </state>
     <state x="1983" y="194" width="672" height="678" key="search.everywhere.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602704644307" />
+    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602726738053" />
   </component>
 </project>

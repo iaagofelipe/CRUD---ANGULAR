@@ -1,9 +1,25 @@
-<p>product-create works!</p>
+<mat-card>
+    <mat-card-title>
+        Novo Produto
+    </mat-card-title>
+    <form>
+        <mat-form-field>
+            <label>
+                <input matInput placeholder="Nome" [(ngModel)]="product.name" name="name">
+            </label>
+        </mat-form-field>
+        <mat-form-field>
+            <label>
+                <input matInput placeholder="Preco (R$)" [(ngModel)]="product.price" name="price">
+            </label>
+        </mat-form-field>
+    </form>
 
-<button mat-raised-button (click)="createProduct()" color="primary">
-    Salvar
-</button>
+    <button mat-raised-button (click)="createProduct()" color="primary">
+        Salvar
+    </button>
 
-<button mat-raised-button (click)="cancel()" color="">
-    Cancelar
-</button>
+    <button mat-raised-button (click)="cancel()" color="">
+        Cancelar
+    </button>
+</mat-card>

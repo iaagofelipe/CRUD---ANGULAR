@@ -19,6 +19,16 @@
       "name": "Produto teste",
       "price": 100.2,
       "id": 4
+    },
+    {
+      "name": "Headset Cancelamento de Ruido",
+      "price": "250.52",
+      "id": 5
+    },
+    {
+      "name": "Blusa ",
+      "price": "50",
+      "id": 6
     }
   ]
 }
