@@ -29,6 +29,11 @@
       "name": "Blusa ",
       "price": "50",
       "id": 6
+    },
+    {
+      "name": "teclado mecâncico",
+      "price": "150",
+      "id": 7
     }
   ]
 }

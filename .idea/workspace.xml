@@ -74,6 +74,17 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/frontend/node_modules/typescript/lib" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.localhost:4200">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
@@ -119,7 +130,8 @@
       <workItem from="1602263738539" duration="6777000" />
       <workItem from="1602605989472" duration="8649000" />
       <workItem from="1602691879397" duration="11038000" />
-      <workItem from="1602721916435" duration="4176000" />
+      <workItem from="1602721916435" duration="4774000" />
+      <workItem from="1602901719309" duration="3783000" />
     </task>
     <servers />
   </component>
@@ -161,10 +173,10 @@
     </state>
     <state x="1949" y="131" width="732" height="639" key="#Inspections/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602700601548" />
     <state x="397" y="131" key="#Inspections/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602728612581" />
-    <state x="504" y="274" key="#Notifications" timestamp="1602727445110">
+    <state x="504" y="274" key="#Notifications" timestamp="1602901779270">
       <screen x="64" y="0" width="1376" height="900" />
     </state>
-    <state x="504" y="274" key="#Notifications/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602727445110" />
+    <state x="504" y="274" key="#Notifications/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602901779270" />
     <state x="1803" y="27" width="1024" height="847" key="#Project_Structure" timestamp="1602263676278">
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
@@ -242,10 +254,10 @@
       <screen x="1600" y="0" width="1440" height="900" />
     </state>
     <state x="1984" y="201" key="run.anything.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602610053510" />
-    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1602728517669">
+    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1602905370128">
       <screen x="64" y="0" width="1376" height="900" />
     </state>
     <state x="1983" y="194" width="672" height="678" key="search.everywhere.popup/0.28.1600.872/1600.0.1440.900@1600.0.1440.900" timestamp="1602704644307" />
-    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602728517669" />
+    <state x="430" y="194" width="672" height="678" key="search.everywhere.popup/64.0.1376.900/1440.132.1366.768@64.0.1376.900" timestamp="1602905370128" />
   </component>
 </project>
